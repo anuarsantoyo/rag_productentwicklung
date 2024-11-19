@@ -1,0 +1,106 @@
+[
+    {
+        "question": "Problem: Hohe Komplexität in der Produktentwicklung, insbesondere bei mechatronischen Systemen.",
+        "answer": "Lösung: Systematische Handhabung durch modulare Produktmodelle wie das Münchener Vorgehensmodell (MVM) und spezifische Methoden wie das Design for Assembly zur Vereinfachung der Prozesse."
+    },
+    {
+        "question": "Problem: Zu viele Iterationen während des Entwicklungsprozesses, die zu Ineffizienzen führen.",
+        "answer": "Lösung: Strukturierte Feedback-Schleifen implementieren und unnötige Iterationen durch Befolgung systematischer Richtlinien wie der VDI-Richtlinie 2221 reduzieren."
+    },
+    {
+        "question": "Problem: Schwierigkeit bei der Definition und Verwaltung von Produktanforderungen über die Zeit.",
+        "answer": "Lösung: Ein gestuftes Vorgehen beim Anforderungsmanagement, wobei die Details im Laufe der Zeit zunehmen, wie es im Modell der Produktkonkretisierung beschrieben wird."
+    },
+    {
+        "question": "Problem: Hoher ökologischer Fußabdruck von Produkten.",
+        "answer": "Lösung: Die Lebenszyklusanalyse bereits in der frühen Entwurfsphase einbeziehen, um nachhaltigere und umweltfreundlichere Produkte zu entwickeln."
+    },
+    {
+        "question": "Problem: Herausforderungen bei der Identifikation und Strukturierung von Anforderungen.",
+        "answer": "Lösung: Verwendung von Checklisten und Suchmatrizen zur Anforderungsklärung, um sicherzustellen, dass keine wichtigen Aspekte übersehen werden und um dynamisch auf Markt- und Technologieänderungen zu reagieren."
+    },
+    {
+        "question": "Problem: Schwierigkeiten bei der Definition und Verwaltung von komplexen Produktfunktionen.",
+        "answer": "Lösung: Funktionsmodellierung auf unterschiedlichen Abstraktionsebenen, um technische Systeme in Teilfunktionen zu gliedern und zielgerichtet realisieren zu können."
+    },
+    {
+        "question": "Problem: Die Überwindung technischer Widersprüche in der Produktentwicklung.",
+        "answer": "Lösung: Anwendung von Widerspruchsorientierter Lösungssuche und Prinzipien zur Überwindung technischer Widersprüche, zum Beispiel durch die Bionik, die biologische Systeme als Vorbilder für technische Lösungen nutzt."
+    },
+    {
+        "question": "Problem: Ineffizienzen durch unklare Arbeitsprozesse und unzureichende Teamkommunikation.",
+        "answer": "Lösung: Verwendung von strukturierten Vorgehensmodellen wie dem Münchener Vorgehensmodell (MVM), das die Produktentwicklung als Problemlösungsprozess abbildet und eine situationsgerechte Navigation durch den Entwicklungsprozess unterstützt."
+    },
+    {
+        "question": "Problem: Schwierigkeit bei der Modularisierung und Vereinfachung von Produkten.",
+        "answer": "Lösung: Einsatz modularer Produktmodelle und strukturierter Ansätze wie der Funktionsmodellierung, um Systeme zu vereinfachen und die Übersichtlichkeit zu verbessern."
+    },
+    {
+        "question": "Problem: Hohe Umweltbelastung von Produkten.",
+        "answer": "Lösung: Integration von Prinzipien wie Design for Environment (DfE) in die frühen Entwicklungsphasen, um umweltfreundlichere Produkte zu entwickeln."
+    },
+    {
+        "question": "Problem: Schwierigkeiten bei der Nutzung vorhandener Informationen.",
+        "answer": "Lösung: Implementierung von Wissensmanagementsystemen, um implizites Wissen in explizites Wissen umzuwandeln und Informationen effektiv zu nutzen."
+    },
+    {
+        "question": "Problem: Angst vor Geheimnisverrat und damit verbundenen Folgen.",
+        "answer": "Lösung: Klare Kommunikation und Richtlinien, wann ein Produkt in die Entwicklungsabteilung übertragen werden soll, um das Wissen vor Wettbewerbern zu schützen."
+    },
+    {
+        "question": "Problem: Angst, Urheberrechte zu verlieren.",
+        "answer": "Lösung: Transparente Regelungen zur Urheberrechts- und Beteiligungsverteilung, um die Angst vor Verlust von Urheberrechten zu minimieren."
+    },
+    {
+        "question": "Problem: Komplexität des Themas.",
+        "answer": "Lösung: Vereinfachte und allgemein verständliche Erläuterungen, um mehr Rückmeldungen von den Mitarbeitern zu erhalten."
+    },
+    {
+        "question": "Problem: Produktentwicklung als Nebentätigkeit.",
+        "answer": "Lösung: Bereitstellung von Freiräumen für die Nutzung von Social Software während der Arbeitszeit und Integration von Innovationstätigkeiten in den Arbeitsalltag."
+    },
+    {
+        "question": "Problem: Isolierte Applikationen und konkurrierende Funktionen.",
+        "answer": "Lösung: Integration der Innovationsplattform in bestehende Tools und Arbeitsprozesse, um redundante Funktionalitäten zu vermeiden."
+    },
+    {
+        "question": "Problem: Standardisierte ESSP-Lösungen, die den spezifischen Anforderungen der Produktentwicklung nicht gerecht werden.",
+        "answer": "Lösung: Anpassen der ESSP an produktentwicklungsspezifische Anforderungen wie Geheimhaltung und Urheberrechtsschutz."
+    },
+    {
+        "question": "Problem: Widerstand der Entwicklerteams gegenüber der Einbindung von Nicht-F&E-Mitarbeitern in den Entwicklungsprozess.",
+        "answer": "Lösung: Klare Kommunikation, dass die Kernentwicklung weiterhin in der Verantwortung des Entwicklerteams bleibt, während die Innovationsplattform für neue Impulse und schnelles Feedback genutzt wird."
+    },
+    {
+        "question": "Problem: Fehlende Akzeptanz der Plattform durch Führungskräfte und Mitarbeiter.",
+        "answer": "Lösung: Schulungen für Führungskräfte und gezielte Einbindung von Lead Usern, die als Vorbilder agieren und das Engagement innerhalb ihrer Teams fördern."
+    },
+    {
+        "question": "Problem: Unklare Verantwortlichkeiten für die Plattform.",
+        "answer": "Lösung: Einrichtung eines dedizierten ESSP-Departments und Benennung eines Community-Managers, der für die Pflege der Plattform und das Moderieren von Diskussionen verantwortlich ist."
+    },
+    {
+        "question": "Problem: Mangelnde Transparenz über die Umsetzung von Ideen.",
+        "answer": "Lösung: Einführung eines festen Feedback-Mechanismus, der sicherstellt, dass die Mitarbeiter innerhalb von vier Wochen über den Status ihrer eingereichten Ideen informiert werden."
+    },
+    {
+        "question": "Problem: Geringe Motivation, Plattform regelmäßig zu nutzen.",
+        "answer": "Lösung: Regelmäßige Bereitstellung exklusiver Inhalte und die Integration von spielerischen Elementen (z. B. Begrüßungsgeschenke für neue Nutzer), um das Interesse an der Plattform zu wecken."
+    },
+    {
+        "question": "Problem: Komplizierte Bedienung der Plattform.",
+        "answer": "Lösung: Anpassung der Benutzeroberfläche an die Corporate Identity des Unternehmens und Implementierung eines Single-Sign-On-Systems, um die Nutzung der Plattform zu erleichtern."
+    },
+    {
+        "question": "Problem: Schwierigkeit, relevante Informationen schnell zu finden.",
+        "answer": "Lösung: Integration der ESSP in die unternehmensweite Suchfunktion und die Möglichkeit, Statusinformationen aus Produktentwicklungssystemen auf der Plattform zu bündeln."
+    },
+    {
+        "question": "Problem: Unübersichtliche Diskussionen und Beiträge auf der Plattform.",
+        "answer": "Lösung: Einführung einer klaren Struktur durch das Community-Management und das Einladen von Experten, um Diskussionen themenspezifisch zu moderieren."
+    },
+    {
+        "question": "Problem: Hemmungen der Mitarbeiter, Beiträge öffentlich zu teilen.",
+        "answer": "Lösung: Transparente Darstellung der Zuhörergruppe (z. B. durch Hierarchieebenen oder Datenschutzklassen) und die Möglichkeit, Beiträge zunächst in privaten Gruppen zu entwickeln."
+    }
+]
