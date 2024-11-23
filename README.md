@@ -12,10 +12,10 @@ pip install -r requirements.txt
 ```
 
 3. Create a `.env` file in the root directory and add the following environment variables:
-    - 'OPENAI_API_KEY' : 'your_openai_api_key'
+    - OPENAI_API_KEY=your_openai_api_key
+   
+4. Run nltk_download.py to download the necessary nltk data.
 
-```python
-3. Run nltk_download.py to download the necessary nltk data.
 
 ```python
 python nltk_download.py

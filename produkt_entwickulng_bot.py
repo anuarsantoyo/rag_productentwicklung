@@ -27,7 +27,7 @@ Beantworte die Frage ausschließlich basierend auf folgendem Kontext:
 
 ---
 
-Beantworte die Frage basierend auf dem obigen Kontext: {question}
+Beantworte die Frage basierend auf dem obigen Kontext mit höchstens aber so kurz wie möglich mit auf jedem Fall weniger als {max_tokens}:{question}
 """
 
 embedding_function = OpenAIEmbeddings()
@@ -35,12 +35,12 @@ db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function
 
 
 ###################################################################################
-
+max_tokens=1500
 # Function to handle user input and display the response
 def process_input():
     query_text = user_entry.get()  # Get the text from the input field
     # Search the DB.
-    results = db.similarity_search_with_relevance_scores(query_text, k=10)
+    results = db.similarity_search_with_relevance_scores(query_text, k=1)
     relevant_text = [doc.page_content for doc, _score in results if _score > 0.8]
 
     if len(relevant_text) == 0:
@@ -52,8 +52,8 @@ def process_input():
             context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results[:2]])
 
         prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
-        prompt = prompt_template.format(context=context_text, question=query_text)
-        model = ChatOpenAI()
+        prompt = prompt_template.format(context=context_text, question=query_text, max_tokens=max_tokens)
+        model = ChatOpenAI(model='gpt-4o-mini',temperature=0, max_tokens=max_tokens)
         response = model.predict(prompt)
 
     # Display the user's input and response in the chat window
@@ -93,26 +93,5 @@ send_button.grid(row=2, column=0, sticky="ew", padx=10, pady=5)
 # Run the GUI main loop
 root.mainloop()
 
-'''# Set up the main window
-root = tk.Tk()
-root.title("Produktentwicklung Bot")
-
-# Display area for chat
-chat_display = tk.Text(root, height=15, width=50, state="normal")
-chat_display.pack(pady=10)
-
-# Entry field for user input
-user_entry = tk.Entry(root, width=40)
-user_entry.pack(pady=5)
-
-# Bind Enter key to the process_input function
-user_entry.bind("<Return>", lambda event: process_input())
-
-# Button to send the input
-send_button = tk.Button(root, text="Send", command=process_input)
-send_button.pack()
-
-# Run the GUI main loop
-root.mainloop()'''
 
 
