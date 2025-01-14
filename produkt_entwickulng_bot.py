@@ -36,6 +36,7 @@ db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function
 
 ###################################################################################
 max_tokens=1500
+MAX_CHARACTERS=500
 # Function to handle user input and display the response
 def process_input():
     query_text = user_entry.get()  # Get the text from the input field
@@ -63,6 +64,18 @@ def process_input():
     # Clear the input field
     user_entry.delete(0, tk.END)
 
+# Function to update character count and enforce the character limit
+def update_character_count(*args):
+    text = user_text_var.get()
+    char_count = len(text)
+
+    # Enforce character limit
+    if char_count > MAX_CHARACTERS:
+        user_text_var.set(text[:MAX_CHARACTERS])
+        char_count = MAX_CHARACTERS
+
+    # Update character count label
+    char_count_label.config(text=f"{char_count}/{MAX_CHARACTERS}")
 
 
 # Set up the main window
@@ -80,18 +93,28 @@ root.columnconfigure(0, weight=1)  # Allow resizing for column 0
 chat_display = tk.Text(root, state="normal", wrap="word")
 chat_display.grid(row=0, column=0, sticky="nsew", padx=10, pady=10)
 
-# Entry field for user input
-user_entry = tk.Entry(root)
-user_entry.grid(row=1, column=0, sticky="ew", padx=10, pady=5)
+# Frame for entry field and character count
+entry_frame = tk.Frame(root)
+entry_frame.grid(row=1, column=0, sticky="ew", padx=10, pady=5)
 
-user_entry.bind("<Return>", lambda event: process_input())
+# Variable to track user input
+user_text_var = tk.StringVar()
+user_text_var.trace_add("write", update_character_count)
+
+# Entry field for user input
+user_entry = tk.Entry(entry_frame, textvariable=user_text_var)
+user_entry.pack(side="left", fill="x", expand=True)
+
+# Label to show character count
+char_count_label = tk.Label(entry_frame, text=f"0/{MAX_CHARACTERS}")
+char_count_label.pack(side="left", padx=5)
 
 # Button to send the input
 send_button = tk.Button(root, text="Send", command=process_input)
 send_button.grid(row=2, column=0, sticky="ew", padx=10, pady=5)
 
+chat_display.insert(tk.END,"Bot: Wie kann Ich Ihnen behilflich sein?")
 # Run the GUI main loop
 root.mainloop()
-
 
 
