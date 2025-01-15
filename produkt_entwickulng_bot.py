@@ -1,10 +1,8 @@
 import tkinter as tk
-from tkinter import messagebox
-
-import argparse
-# from dataclasses import dataclass
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
+#from langchain_huggingface import HuggingFaceEmbeddings #used for locals
+#from sentence_transformers import SentenceTransformer #used for locals
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 import openai
@@ -41,8 +39,8 @@ MAX_CHARACTERS=500
 def process_input():
     query_text = user_entry.get()  # Get the text from the input field
     # Search the DB.
-    results = db.similarity_search_with_relevance_scores(query_text, k=1)
-    relevant_text = [doc.page_content for doc, _score in results if _score > 0.8]
+    results = db.similarity_search_with_relevance_scores(query_text, k=2)
+    relevant_text = [doc.page_content for doc, _score in results if _score > 0.7]
 
     if len(relevant_text) == 0:
         response = "Bitte können Sie die Frage genau formulieren, damit ich Ihnen besser helfen kann."
@@ -54,8 +52,8 @@ def process_input():
 
         prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
         prompt = prompt_template.format(context=context_text, question=query_text, max_tokens=max_tokens)
-        model = ChatOpenAI(model='gpt-4o-mini',temperature=0, max_tokens=max_tokens)
-        response = model.predict(prompt)
+        model = ChatOpenAI(model='gpt-4o-mini',temperature=0.7, max_tokens=max_tokens)
+        response = model.invoke(prompt).content
 
     # Display the user's input and response in the chat window
     chat_display.insert(tk.END, f"You: {query_text}\n")

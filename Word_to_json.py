@@ -22,7 +22,7 @@ for i in range(1, len(split_text), 2):
 data = []
 # Read the content of the Word document
 for i in range(0, len(result), 2):
-     data.append({"question": result[0], "answer": result[1]})
+     data.append({"question": result[i], "answer": result[i+1]})
 
 # Save the data to a JSON file
 with open('data/output.json', 'w', encoding='utf-8') as f:

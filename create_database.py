@@ -1,17 +1,13 @@
-# from langchain.document_loaders import DirectoryLoader
-from langchain_community.document_loaders import DirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
-# from langchain.embeddings import OpenAIEmbeddings
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 import openai
 from dotenv import load_dotenv
 import os
 import shutil
 import json
-
-#from langchain.embeddings import HuggingFaceEmbeddings
+#from langchain_huggingface import HuggingFaceEmbeddings
+from sentence_transformers import SentenceTransformer
 
 
 # Load environment variables. Assumes that project contains .env file with API keys
@@ -36,7 +32,7 @@ def generate_data_store():
 
 
 def load_documents():
-    with open('data/qa.json', 'r', encoding='utf-8') as file:
+    with open('data/output.json', 'r', encoding='utf-8') as file:
         return json.load(file)
 
 def json_to_chunks(json_file):
@@ -59,10 +55,11 @@ def save_to_chroma(chunks: list[Document]):
         shutil.rmtree(CHROMA_PATH)
 
     # Create a new DB from the documents.  OpenAIEmbeddings(), HuggingFaceEmbeddings()
+
     db = Chroma.from_documents(
         chunks, OpenAIEmbeddings(), persist_directory=CHROMA_PATH
     )
-    db.persist()
+    #db.persist()
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")
 
 

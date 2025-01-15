@@ -4,519 +4,519 @@
         "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen und Systemkomponenten sind nicht klar verknüpft, was zu redundanten oder überflüssigen Technologien führt.\n",
+        "answer": "Lösung: Implementieren Sie Rückverfolgbarkeit (Traceability) zwischen Anforderungen, Funktionen und Systemkomponenten, um sicherzustellen, dass jede Komponente auf eine gültige Anforderung zurückgeführt werden kann.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Veraltete oder nicht mehr relevante Anforderungen bleiben im System bestehen, wodurch unnötige Komplexität entsteht.\n",
+        "answer": "Lösung: Überprüfen Sie regelmäßig die Aktualität und Relevanz von Anforderungen und entfernen Sie veraltete oder überflüssige Anforderungen durch strukturierte Traceability-Analysen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unterschiedliche Teams arbeiten mit isolierten Modellen, was zu Inkonsistenzen und Missverständnissen bei Anforderungen führt.\n",
+        "answer": "Lösung: Verwenden Sie ein zentrales MBSE-Modell, das für alle Teams zugänglich ist und Anforderungen, Komponenten sowie deren Beziehungen konsistent dokumentiert.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen berücksichtigen nicht immer die dynamischen Änderungen im technologischen Umfeld oder bei Nutzerbedürfnissen.\n",
+        "answer": "Lösung: Aktualisieren Sie Anforderungen regelmäßig basierend auf technologischen Fortschritten und Rückmeldungen von Stakeholdern, um sicherzustellen, dass sie mit aktuellen Bedürfnissen übereinstimmen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen und Spezifikationen werden in Dokumenten gespeichert, die über verschiedene Computer verstreut sind und schlecht verwaltet werden. Es gibt oft mehrere Versionen desselben Dokuments, was die Nachverfolgung und Verwaltung erschwert.\n",
+        "answer": "Lösung: Einführung eines modellbasierten Systems Engineering (MBSE) Ansatzes, der die zentrale Speicherung und Verwaltung aller Anforderungen in einem Modell ermöglicht, um eine einzige verlässliche Quelle der Wahrheit zu schaffen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Schwierigkeiten bei der Nachverfolgung von Änderungen und deren Auswirkungen, insbesondere bei Änderungen in Anforderungen.\n",
+        "answer": "Lösung: Verwendung eines integrierten Datenmodells, bei dem Änderungen in den Anforderungen automatisch im Systemmodell aktualisiert werden. Dies ermöglicht eine direkte Verknüpfung zwischen den Anforderungen und den damit verbundenen Analysemodellen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nAnforderungsanalysen und Failure Mode and Effects Analysis (FMEA) sind oft mühsam, arbeitsintensiv und können sich willkürlich anfühlen.\n",
+        "answer": "Lösung:\nEinbindung modellbasierter Systeme (MBSE) zur Systematisierung der Anforderungsanalyse und Integration von Stakeholder-Anforderungen in ein einheitliches Datenmodell.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nDie Identifizierung von Fehlerursachen ist oft subjektiv und hängt stark von der Erfahrung des Teams ab.\n",
+        "answer": "Lösung:\nNutzung von modellbasierten Anforderungen, die als \"prose transfer functions\" agieren, um eine objektivere Analyse und bessere Verknüpfung zwischen Anforderungen und potenziellen Fehlern zu ermöglichen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nUnvollständige oder inkonsistente Anforderungsmodelle erschweren die Risikoanalyse und FMEA.\n",
+        "answer": "Lösung:\nVerwendung eines standardisierten MBSE-Metamodells zur Erstellung vollständiger und strukturierter Anforderungsmodelle, die gleichzeitig als Grundlage für FMEA dienen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nFMEA-Tabellen erfordern umfangreiche manuelle Eingaben und haben oft eine eingeschränkte Wiederverwendbarkeit.\n",
+        "answer": "Lösung:\nAutomatisierte Generierung von FMEA-Tabellen aus MBSE-Modellen, basierend auf Gegen-Anforderungen (\"counter-requirements\"), die aus bestehenden Anforderungen abgeleitet werden.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nSchwierigkeiten bei der Analyse komplexer Kausalitätsketten, die zu Fehlerzuständen führen können.\n",
+        "answer": "Lösung:\nModellierung von Systemzuständen und deren Interaktionen in einem MBSE-Framework, um Kausalitätsketten systematisch nachzuverfolgen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nUnzureichende Integration von Anforderungen, Design und Fehleranalyse.\n",
+        "answer": "Lösung:\nKombination von Anforderungen und Design-Daten in einem MBSE-Modell, das für verschiedene Analysen wie FMEA oder Fehlerbäume verwendet werden kann.\n\n\n\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nStakeholder-Erwartungen und -Anforderungen sind nicht klar dokumentiert oder unvollständig.\n",
+        "answer": "Lösung:\nErfassen Sie Stakeholder-Erwartungen und -Anforderungen durch direkte Befragungen, Prüfung relevanter Dokumente (z. B. Geschäftsvorschläge) und Berücksichtigung der Zielumgebung.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nUneinigkeit zwischen Stakeholdern führt zu Verzögerungen und Missverständnissen über Anforderungen.\n",
+        "answer": "Lösung:\nFormalisieren Sie Stakeholder-Erwartungen in Anforderungen und erreichen Sie eine explizite Zustimmung aller betroffenen Parteien.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nÄnderungen in den Anforderungen führen zu ungeplanten Risiken und zusätzlichen Kosten.\n",
+        "answer": "Lösung:\nAnalysieren Sie Änderungen an Stakeholder-Anforderungen, bewerten Sie die Auswirkungen und Risiken und leiten Sie entsprechende Maßnahmen zur Minderung ein.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nStakeholder sind über den Status und Änderungen ihrer Anforderungen nicht informiert, was zu Missverständnissen führt.\n",
+        "answer": "Lösung:\nSorgen Sie für transparente Kommunikation des Status und der Änderungen der Anforderungen an alle betroffenen Parteien.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nSystemanforderungen sind ungenau, unvollständig oder nicht dokumentiert.\n",
+        "answer": "Lösung:\nDokumentieren Sie funktionale und nicht-funktionale Systemanforderungen basierend auf den Stakeholder-Anforderungen und definieren Sie deren Eigenschaften gemäß Standards wie ISO/IEC/IEEE 29148.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nUnstrukturierte und ungeordnete Anforderungen erschweren die Priorisierung und Umsetzung.\n",
+        "answer": "Lösung:\nStrukturieren Sie Systemanforderungen in Gruppen (z. B. nach Funktionalität) und priorisieren Sie sie basierend auf Projekt- oder Stakeholder-Bedürfnissen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nSystemanforderungen sind technisch nicht machbar oder weisen Abhängigkeiten auf, die nicht berücksichtigt wurden.\n",
+        "answer": "Lösung:\nPrüfen Sie die Korrektheit, technische Machbarkeit und Interdependenzen der Systemanforderungen und berücksichtigen Sie diese bei Projektbewertungen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nDie Auswirkungen der Systemanforderungen auf das Systemumfeld sind unbekannt.\n",
+        "answer": "Lösung:\nAnalysieren Sie die Auswirkungen der Systemanforderungen auf Elemente im relevanten Systemkontext.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nFehlende Konsistenz und Nachverfolgbarkeit zwischen Stakeholder- und Systemanforderungen erschweren Änderungsmanagement und Qualitätssicherung.\n",
+        "answer": "Lösung:\nSicherstellen von Konsistenz und bidirektionaler Nachverfolgbarkeit zwischen System- und Stakeholder-Anforderungen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nBetroffene Parteien sind über Systemanforderungen und deren Änderungen nicht ausreichend informiert.\n",
+        "answer": "Lösung:\nKommunizieren Sie die Systemanforderungen und deren Änderungen transparent an alle betroffenen Parteien.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nStakeholder-Anforderungen sind oft unvollständig oder missverstanden, was zu Fehlern in späteren Entwicklungsphasen führt.\n",
+        "answer": "Lösung:\nEin strukturierter Ansatz zur Anforderungserhebung, einschließlich der Verwendung von Techniken wie Interviews, Workshops und Beobachtungen, um eine umfassende und genaue Erhebung der Stakeholder-Erwartungen zu gewährleisten.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nÄnderungen in den Anforderungen während des Entwicklungsprozesses können zu erheblichen Verzögerungen und Kostensteigerungen führen.\n",
+        "answer": "Lösung:\nImplementierung eines Änderungsmanagementprozesses, der potenzielle Änderungen bewertet, ihre Auswirkungen analysiert und Entscheidungen über deren Implementierung systematisch dokumentiert.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nDie Rückverfolgbarkeit zwischen Anforderungen und den daraus abgeleiteten Systemkomponenten ist oft unzureichend, was die Verfolgung von Änderungen erschwert.\n",
+        "answer": "Lösung:\nEinführung eines Werkzeugs oder Frameworks zur Sicherstellung der bidirektionalen Rückverfolgbarkeit zwischen Anforderungen und Systemartefakten, um eine bessere Kontrolle und Überwachung zu gewährleisten.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nDie Qualität der Anforderungen ist oft unzureichend, da sie mehrdeutig oder widersprüchlich formuliert sind.\n",
+        "answer": "Lösung:\nNutzung von Qualitätskriterien und Validierungstechniken wie Reviews und Inspektionen, um sicherzustellen, dass die Anforderungen klar, konsistent und überprüfbar sind.\n\n\n\n\n\n\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nHäufige Anforderungsänderungen während des Produktentwicklungsprozesses führen zu mehrfachen Überarbeitungen, was die Entwicklungszeit und die Unsicherheit im Zeitplan erheblich erhöht.\n",
+        "answer": "Lösung:\nEinsatz eines Systemdynamikmodells zur Analyse der Auswirkungen von Anforderungsänderungen. Dieses Modell berücksichtigt Parameter wie Änderungswahrscheinlichkeit und -ausmaß sowie Fristen für Anforderungsänderungen, um die Dauer und Kosten besser abzuschätzen und die Auswirkungen von Änderungen zu minimieren.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nÄnderungen in späteren Entwicklungsphasen haben größere Auswirkungen auf den Fortschritt als Änderungen in früheren Phasen.\n",
+        "answer": "Lösung:\nFestlegung eines Zeitpunkts, ab dem keine Änderungen mehr erlaubt sind. Analyse zeigt, dass frühe Fristen für Anforderungsänderungen den Entwicklungszeitplan erheblich stabilisieren können.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:\nDie Unsicherheit und Komplexität von Anforderungsänderungen erschweren die Vorhersage der tatsächlichen Entwicklungszeit.\n",
+        "answer": "Lösung:\nDurchführung von Sensitivitätsanalysen basierend auf Parametern wie Änderungswahrscheinlichkeit und -ausmaß, um deren Einfluss auf den Zeitplan zu quantifizieren und zu minimieren.\n\n\n\n\n\n\n\n\n\n\n\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Die Stakeholderbedürfnisse sind oft ungenau oder unvollständig definiert, was zu Schwierigkeiten bei der Transformation in messbare Anforderungen führt.\n",
+        "answer": "Lösung: Enge Zusammenarbeit mit Stakeholdern während der Anforderungsdefinition, um implizite Bedürfnisse zu identifizieren und messbare Anforderungen mit Validierungskriterien zu formulieren. Dies stellt sicher, dass die Bedürfnisse der Stakeholder erfüllt werden​.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Widersprüchliche oder unklare Anforderungen können zu Ineffizienzen und kostspieligen Nacharbeiten führen.\n",
+        "answer": "Lösung: Anwendung von Standards wie ISO/IEC/IEEE 29148 zur Sicherstellung der Vollständigkeit, Eindeutigkeit und Konsistenz von Anforderungen. Eine regelmäßige Verifikation und Validierung reduziert Risiken von Missverständnissen​.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Änderungen an Anforderungen können Inkonsistenzen und Projektverzögerungen verursachen.\n",
+        "answer": "Lösung: Implementierung eines kontinuierlichen Managements von Systemanforderungen, inklusive Änderungsmanagement und Nachverfolgbarkeit, um Anpassungen effizient zu integrieren und deren Auswirkungen zu minimieren​.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Fehlende Berücksichtigung von Lebenszyklusrestriktionen und externen Faktoren bei der Anforderungsdefinition.\n",
+        "answer": "Lösung: Integration von Lebenszykluskonzepten und -restriktionen sowie deren regelmäßige Überprüfung in den Anforderungsdefinitionsprozess. Dies hilft, konsistente und ganzheitliche Anforderungen zu erstellen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Schwierigkeiten, komplexe Bedürfnisse wie Nachhaltigkeit in technische Anforderungen zu übersetzen.\n",
+        "answer": "Lösung: Formulierung spezifischer technischer Anforderungen, die aus den Stakeholderbedürfnissen abgeleitet werden, wie z. B. Nachhaltigkeitskriterien mit klar definierten Prüfmethoden​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Die Transformation von Stakeholder-Bedürfnissen in messbare Anforderungen ist erfolgskritisch, da fehlende Validierungskriterien zu Fehlern und teuren Nacharbeiten führen können.\n",
+        "answer": "Lösung: Enge Abstimmung mit Stakeholdern und die Definition klarer Validierungskriterien von Anfang an. Beispiele sind Tests und Simulationen, um den Erfüllungsgrad zu bewerten​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unterschiedliche oder konfliktäre Stakeholder-Bedürfnisse führen zu Herausforderungen in der Konsistenz und Vollständigkeit der Anforderungen.\n",
+        "answer": "Lösung: Stakeholder-Mapping und Use-Case-Modellierung, um alle relevanten Bedürfnisse systematisch zu identifizieren. Priorisierungsmethoden wie Trade-Off-Analysen helfen, Konflikte zu minimieren​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unklarheit bei der Definition von Nachhaltigkeitsanforderungen, z. B. durch unterschiedliche Vorstellungen von Stakeholdern über den Begriff „Nachhaltigkeit“.\n",
+        "answer": "Lösung: Verwendung standardisierter Nachhaltigkeitskriterien, wie ISO 14024 oder TCO Certified, und transparente Kommunikation der Anforderungen an die Stakeholder​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Änderungen der Anforderungen im Projektverlauf können zu großen Verzögerungen führen, insbesondere wenn die Änderungen nicht rechtzeitig erkannt werden.\n",
+        "answer": "Lösung: Kontinuierliches Anforderungsmanagement mit strikter Nachverfolgbarkeit und Verwendung von Tools für Änderungspropagation\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unklare oder inkonsistente Anforderungen führen zu Missverständnissen und ineffizienten Entwicklungsprozessen.\n",
+        "answer": "Lösung: Nutzung von modellbasierten Ansätzen wie MBSE (Model-Based Systems Engineering), um Anforderungen in einem zentralen Systemmodell abzubilden und Nachvollziehbarkeit sowie Konsistenz zu gewährleisten​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Fehlende Nachverfolgbarkeit von Abhängigkeiten zwischen Anforderungen und Systemelementen erschwert die Entwicklung und Validierung.\n",
+        "answer": "Lösung: Einsatz von Modellierungsstandards wie SysML, um die Beziehungen zwischen Anforderungen, Systemelementen und Entscheidungen systematisch zu dokumentieren und zu visualisieren​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Änderungen der Anforderungen während des Entwicklungsprozesses können zu Verzögerungen und Inkonsistenzen führen.\n",
+        "answer": "Lösung: Einführung eines kontinuierlichen Anforderungsmanagements mit klaren Prozessen für Änderungspropagation und -validierung​.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unterschiedliche Stakeholder-Anforderungen führen zu Konflikten und Komplexität.\n",
+        "answer": "Lösung: Systematische Erfassung und Priorisierung der Anforderungen aller Anspruchsgruppen durch interdisziplinäre Zusammenarbeit und die Nutzung von Tools zur Harmonisierung​.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht immer auf die Kundenbedürfnisse abgestimmt, was die Entwicklung an den tatsächlichen Bedürfnissen vorbei lenken kann.\n",
+        "answer": "Lösung: Einbeziehung der Kundenbedürfnisse als Ausgangspunkt für die Anforderungsdefinition und regelmäßige Validierung während des Entwicklungsprozesses​.\n\n\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden unklar formuliert, wodurch Missverständnisse entstehen können.\n",
+        "answer": "Lösung: Nutzung standardisierter Methoden und Satzschablonen zur klaren und eindeutigen Formulierung von Anforderungen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Änderungen an Anforderungen während des Projekts werden oft nicht effektiv gehandhabt, was zu Verzögerungen und Mehrkosten führen kann.\n",
+        "answer": "Lösung: Einführung eines Änderungsmanagementprozesses, der klare Rollen und Zuständigkeiten definiert sowie Änderungen systematisch dokumentiert und bewertet.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Es gibt Inkonsistenzen oder Lücken in den Anforderungen, die sich negativ auf die Projektumsetzung auswirken können.\n",
+        "answer": "Lösung: Durchführung von Qualitätssicherungsmaßnahmen wie Reviews und Prüfungen, um die Konsistenz und Vollständigkeit der Anforderungen zu gewährleisten.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Nicht berücksichtigte Anforderungen von passiven Stakeholdern, wie Gesetzgeber oder Betriebsräten, können Projekte stoppen oder deren Umsetzung erschweren.\n",
+        "answer": "Lösung: Einbeziehung passiver Stakeholder durch frühzeitige Identifikation und Berücksichtigung ihrer Anforderungen in Workshops und Analysen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen entsprechen oft nicht den tatsächlichen Bedürfnissen der Stakeholder, was zu Fehlentwicklungen führt.\n",
+        "answer": "Lösung: Frühzeitige und regelmäßige Validierung, um sicherzustellen, dass die Anforderungen korrekt, vollständig und abgestimmt sind.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Textuelle Anforderungen sind oft mehrdeutig und schwer verständlich.\n",
+        "answer": "Lösung: Ergänzung durch visuelle Modelle wie Systemkontextdiagramme, Funktions- und Ablaufmodelle, um Klarheit und Nachvollziehbarkeit zu verbessern.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind oft unklar, unvollständig oder nicht überprüfbar, was die Entwicklung erschwert.\n",
+        "answer": "Lösung: Anwendung von Qualitätskriterien wie Eindeutigkeit, Konsistenz und Überprüfbarkeit bei der Formulierung von Anforderungen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Änderungen an Anforderungen können schwer nachvollzogen werden, was die Entwicklung behindert.\n",
+        "answer": "Lösung: Sicherstellung der Verfolgbarkeit über den gesamten Lebenszyklus der Anforderungen, um Änderungen effizient zu handhaben.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Die Dokumentation und Verwaltung von Anforderungen ist oft uneinheitlich und ineffizient.\n",
+        "answer": "Lösung: Verwendung von Vorlagen und Tools, angepasst an die spezifischen Projektanforderungen, um Konsistenz und Effizienz zu fördern.\n\n\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Uneinheitliche Anforderungsspezifikationen führen zu Missverständnissen und Qualitätsproblemen.\n",
+        "answer": "Lösung: Verwendung standardisierter Vorlagen oder Checklisten, um Konsistenz und Qualität in der Anforderungserfassung sicherzustellen.\nChecklisten sind ein einfaches, aber effektives Mittel, um sicherzustellen, dass alle relevanten Aspekte einer Anforderung berücksichtigt wurden.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unzureichende Einbindung von Stakeholdern führt zu fehlenden oder falschen Anforderungen.\n",
+        "answer": "Lösung: Frühzeitige und umfassende Einbindung relevanter Stakeholder in den Anforderungsprozess.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind oft nicht in andere Projektaktivitäten integriert, was zu Kommunikationslücken führt.\n",
+        "answer": "Lösung: Verknüpfung von RE-Prozessen mit anderen Projektphasen wie Entwicklung und Test.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Fehlende Struktur und Bewertung von RE-Prozessen führen zu Ineffizienzen.\n",
+        "answer": "Lösung: Einsatz eines Reifegradmodells, um RE-Prozesse objektiv zu bewerten und gezielt zu verbessern.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unklare Rollenverteilung führt zu Verantwortungskonflikten und ineffizientem Arbeiten.\n",
+        "answer": "Lösung: Klare Definition und Abgrenzung der Rollen, z. B. „Projektleiter“ und „Anforderungsmanager“.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: RE-Prozesse stagnieren und passen sich nicht an neue Herausforderungen an.\n",
+        "answer": "Lösung: Regelmäßige Überprüfung und Anpassung der Prozesse an veränderte Rahmenbedingungen. Hierbei sollten die aktuellen Normen und Richtlinien vor Beginn eines neuen Projektes analysiert werden.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden unstrukturiert und unklar dokumentiert.\n",
+        "answer": "Lösung: Nutzung eines RIM (Requirements-Information-Model) zur strukturierten Dokumentation und Klassifikation von Anforderungen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist ein Requirements-Information-Model (RIM)?\n",
+        "answer": "Lösung: RIM dient zur Beschreibung einer Anforderungs-Landschaft.\nDie Anforderungs-Lanschaft legt folgende Dimensionen fest:\n     \t1.Die zu verwendende Klassifizierung in Bezug auf die Anforderungsarten (wie z.B. funktionale Anforderung,Qualitätsanforderung)\n  \t2.Die zu verwendende Klassifizierung in Bezug auf ihren Lösungsbezug (wie z.B. Ziele, Szenarien und lösungsorientierte Anforderungen)\n   \t3.Die notwendigen Detaillierungsebenen je Anforderungs-Artefakt-Typ (Detaillierung 1: Geschäfts-Ebene, Detaillierung 2: Benutzer-Ebene und Detaillierung 3: System-Ebene)\n \t4.Die zu verwendenden Darstellungsformen je Anforderungs-Artefakt-Typ (wie z.B. : Benutzer-Ebene, lösungsorientierte Beschreibung für funktionale Anforderungen erfolgt durch Entity-Relationship-Modelle oder in textueller Form)\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden erst spät im Prozess überprüft, was zu Fehlentwicklungen führt.\n",
+        "answer": "Lösung: Regelmäßige Validierung von Anforderungen während des gesamten Entwicklungsprozesses.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Konflikte zwischen Anforderungen oder Stakeholdern verzögern Projekte.\n",
+        "answer": "Lösung: Einsatz strukturierter Konfliktlösungsmethoden, um Konflikte frühzeitig zu identifizieren und zu beheben.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Es fehlt an einer objektiven Messung der Qualität und des Fortschritts im Anforderungsmanagement.\n",
+        "answer": "Lösung: Verwendung von Metriken, um die Qualität und den Fortschritt von Anforderungen messbar zu machen.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Welche Modellierungssprachen werden derzeit für Spezifikation von Anforderungen verwendet?\n",
+        "answer": "Lösung: Die Modellierungssprachen ULM (Unified Modelling Language), BMPN (\nBusiness Process Model and Notation ) /EPC \n(Engineering-Procurement-Construction) , SysML (Systems Modelling Language) sind die am häufig benutzten Modellierungssprachen\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Verständnisprobleme über Validierung im Zusammenhanf mit Requirements Engineering?\n",
+        "answer": "Lösung: Validierung ist ein Prozess, bei dem bestätigt wird, dass ein Element (ein System, ein Arbeitsergebnis oder ein Teil davon) den Bedürfnissen der Stakeholder entspricht.\nHierbei handelt es sich um eine Kernaktivität im Requirements Engineering.\nBeispiel:  Überprüfung, ob der aktuelle Entwicklungsstand nach wie  vor  die  Bedürfnisse  des  Kunden  sowie  anderer  Stakeholder erfüllt.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist ein Reifegradmodell?\n",
+        "answer": "Lösung: Reifegradmodell ist ein Modell, das die Prozessfähigkeit in definierte Kategorien abbildet und damit eine verlässliche und wiederholbare Prozessbewertung erlaubt. Ein Reifegradmodell stellt Forderungen an Prozesse und schreibt selbst keine Prozesse vor. Es ist daher kein Vorgehensmodell. Wird zur Bewertung der Prozessreife und zur Prozessverbesserung sowohl für die eigenen Prozesse als auch für jene der Zulieferer eingesetzt.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Nicht alle relevanten Anforderungen werden aus der Hauptmerkmalliste abgeleitet, was zu Lücken in der Spezifikation führt.\n",
+        "answer": "Lösung: Sicherstellen, dass alle relevanten Haupt- und Nebenmerkmale überprüft und vollständig in Anforderungen umgesetzt werden.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind oft vage oder nicht messbar, was die Verifikation erschwert.\n",
+        "answer": "Lösung: Anforderungen eindeutig und durch messbare Kriterien formulieren, um ihre Erfüllung nachzuweisen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind unvollständig, inkorrekt oder widersprüchlich, was die Entwicklung behindert.\n",
+        "answer": "Lösung: Anforderungen vollständig, korrekt und widerspruchsfrei dokumentieren, um eine klare Grundlage zu schaffen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Spezifikationen sind oft nicht nachvollziehbar oder unrealistisch, was die Umsetzung erschwert.\n",
+        "answer": "Lösung: Anforderungen nachvollziehbar formulieren und sicherstellen, dass sie innerhalb der technischen und organisatorischen Möglichkeiten liegen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen enthalten konkrete Lösungsvorgaben, was die Flexibilität in der Entwicklung einschränkt.\n",
+        "answer": "Lösung: Anforderungen lösungsneutral formulieren, um alternative Lösungsansätze zu ermöglichen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen können nicht verifiziert oder validiert werden, da die Methoden und Mittel fehlen.\n",
+        "answer": "Lösung: Anforderungen absicherungsfähig gestalten und die notwendigen Methoden sowie Mittel zur Verifikation und Validierung definieren.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Es wird nicht zwischen verbindlichen Anforderungen (Festforderungen) und optionalen Zielen (Wunschforderungen) unterschieden, was zu Missverständnissen führt.\n",
+        "answer": "Lösung: Eine klare Trennung zwischen Festforderungen und Optimierungszielen vornehmen, um Prioritäten und Erwartungen zu klären.\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist Model-based Systems Engineering (MBSE)?\n",
+        "answer": "Lösung: formalisierte Anwendung der Modellierung zur \nUnterstützung von Systemanforderungen, Entwurfs-,  Analyse-,  Verifikations-  und Validierungs-\naktivitäten,  die  in  der  Konzeptentwurfsphase  beginnen und sich über die gesamte Entwicklung und spätere Lebenszyklusphasen erstrecken/fortsetzen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist die Verifikation?\n",
+        "answer": "Lösung: Überprüfung des  Systems  in  Bezug  auf  die  Spezifikation  auf  unterschiedlichen  Systemebenen  und  Konkretisierungsniveaus\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist eine Haauptmerkmalleiste?\n",
+        "answer": "Lösung: Haptmerkmalliste bzw. Anfoderungsliste ist ein Werkzeug, um Anforderungen  zu  erheben,  indem  generische Merkmale,  die  in  Hauptmerkmale und Nebenmerkmale kategorisiert werden, in einer  Liste zusammengefasst werden\nDiese  Liste  soll  den  Anwender  darin  unterstützen,  eine  vollständige,  eindeutige,  richtige  und  widerspruchsfreie  Spezifikation  zu  erarbeiten\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unklare Zieldefinitionen in der frühen Entwicklungsphase.\n",
+        "answer": "Lösung: Einführung eines Zielsystems, das produktbezogene, zeitliche und kostentechnische Ziele klar definiert und priorisiert​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Fehlende Struktur in der Ermittlung von Anforderungen.\n",
+        "answer": "Lösung: Systematisches Vorgehen beim Klären der Aufgaben durch Workshops, Interviews und Checklisten​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht konsistent dokumentiert.\n",
+        "answer": "Lösung: Verwendung von Lasten- und Pflichtenheften, um Anforderungen systematisch zu erfassen​.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Unvollständige Spezifikation von Anforderungen.\n",
+        "answer": "Lösung: Klare Unterscheidung zwischen funktionalen und nicht-funktionalen Anforderungen und deren Priorisierung​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Zielkonflikte zwischen Anforderungen bleiben ungelöst.\n",
+        "answer": "Lösung: Regelmäßige Analyse und Priorisierung der Anforderungen sowie Entscheidung durch Design Reviews mit Stakeholdern​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht nachvollziehbar dokumentiert.\n",
+        "answer": "Lösung: Einführung einer hierarchischen Struktur für Anforderungen (z. B. Hauptanforderungen, Unteranforderungen)​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Widersprüchliche Anforderungen behindern den Entwicklungsprozess.\n",
+        "answer": "Lösung: Iterative Überprüfung und Konsistenzprüfung aller Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Fehlende Absicherung der Anforderungen.\n",
+        "answer": "Lösung: Einsatz von Verifikations- und Validierungsmaßnahmen für alle definierten Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Stakeholder sind nicht ausreichend eingebunden.\n",
+        "answer": "Lösung: Einbindung aller relevanten Stakeholder in den Prozess der Anforderungsdefinition und -validierung​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht lösungsneutral formuliert.\n",
+        "answer": "Lösung: Sicherstellen, dass Anforderungen sich auf das „Was“ und nicht auf das „Wie“ beziehen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Die Anforderungen berücksichtigen keine zukünftigen Änderungen.\n",
+        "answer": "Lösung: Einführung eines Änderungsmanagement-Prozesses für Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht messbar definiert.\n",
+        "answer": "Lösung: Spezifikation von Anforderungen durch quantitative und überprüfbare Kriterien​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Fehlende Trennung von Muss- und Wunsch-Anforderungen.\n",
+        "answer": "Lösung: Systematische Klassifikation von Anforderungen nach ihrer Verbindlichkeit​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen berücksichtigen nicht alle Lebenszyklusphasen.\n",
+        "answer": "Lösung: Einbeziehung aller relevanten Phasen (z. B. Produktion, Wartung) in die Anforderungsentwicklung​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht auf bestehende Standards abgestimmt.\n",
+        "answer": "Lösung: Nutzung von etablierten Normen und Standards zur Spezifikation von Anforderungen​1.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht spezifisch genug.\n",
+        "answer": "Lösung: Verwendung einer Hauptmerkmalliste, um spezifische Anforderungen abzuleiten​1.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Die Verfolgbarkeit von Anforderungen ist nicht gewährleistet.\n",
+        "answer": "Lösung: Einführung eines Traceability-Modells zur Nachverfolgbarkeit aller Anforderungen​1.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht iterativ weiterentwickelt.\n",
+        "answer": "Lösung: Regelmäßige Überprüfung und Anpassung der Anforderungen basierend auf neuen Erkenntnissen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Die Anforderungen berücksichtigen keine Nutzerperspektive.\n",
+        "answer": "Lösung: Durchführung von Nutzeranalysen zur Definition relevanter Anforderungen​1.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht flexibel genug für Anpassungen.\n",
+        "answer": "Lösung: Einführung eines flexiblen Rahmens für Anpassungen und Änderungen der Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht einheitlich dokumentiert.\n",
+        "answer": "Lösung: Verwendung standardisierter Dokumentenformate wie Anforderungslisten, Lasten- und Pflichtenhefte​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Komplexe Anforderungen sind schwer nachzuverfolgen.\n",
+        "answer": "Lösung: Einsatz von Software-Tools mit integrierter Verfolgbarkeitsfunktion​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Änderungen an Anforderungen werden nicht systematisch verwaltet.\n",
+        "answer": "Lösung: Einführung eines Änderungsmanagement-Workflows mit Versionierung und Nachverfolgbarkeit​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht klar kommuniziert.\n",
+        "answer": "Lösung: Nutzung von RM-Software mit Kommunikationsschnittstellen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht konsistent über mehrere Ebenen hinweg dokumentiert.\n",
+        "answer": "Lösung: Einführung von System-, Modul- und Komponentenlastenheften​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht ausreichend priorisiert.\n",
+        "answer": "Lösung: Einsatz von Kriterien wie Verbindlichkeit und Erfüllungsgrad zur Priorisierung​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind schwer zu validieren.\n",
+        "answer": "Lösung: Integration von Validierungsmaßnahmen in den Entwicklungsprozess​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht mit anderen Datenquellen verknüpft.\n",
+        "answer": "Lösung: Integration von RM-Software mit ERP-, PDM- und CAD-Systemen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht an externe Partner weitergegeben.\n",
+        "answer": "Lösung: Nutzung des ReqIF-Standards für den Austausch von Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht mit Stakeholdern abgestimmt.\n",
+        "answer": "Lösung: Regelmäßige Abstimmung in funktionsübergreifenden Meetings​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht transparent dokumentiert.\n",
+        "answer": "Lösung: Einführung einer zentralen Datenbank für Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht zukunftsorientiert.\n",
+        "answer": "Lösung: Aufnahme von Nachhaltigkeits- und Erweiterungsmöglichkeiten in die Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen berücksichtigen keine gesetzlichen Vorgaben.\n",
+        "answer": "Lösung: Integration von rechtlichen Rahmenbedingungen in die Anforderungsdokumentation​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht versionskontrolliert.\n",
+        "answer": "Lösung: Einführung eines Versionierungssystems für Anforderungen​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht iterativ überprüft.\n",
+        "answer": "Lösung: Regelmäßige Überprüfung und Anpassung durch Reviews​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen berücksichtigen keine Kundenwünsche.\n",
+        "answer": "Lösung: Durchführung von Kundenworkshops zur Anforderungsermittlung​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht vollständig dokumentiert.\n",
+        "answer": "Lösung: Verwendung von Checklisten zur Vollständigkeitsprüfung​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht auf Kompatibilität geprüft.\n",
+        "answer": "Lösung: Einführung von Schnittstellenanforderungen und Tests​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen sind nicht flexibel für Anpassungen.\n",
+        "answer": "Lösung: Nutzung eines iterativen Änderungsmanagements​\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anforderungen werden nicht langfristig gepflegt.\n",
+        "answer": "Lösung: Einführung eines kontinuierlichen Pflegeprozesses für Anforderungen​\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Durch Annwendung verschiedener Software Tools (Hersteller und Lieferant) können die Anfoderungen (Requirements) nicht einfach ausgetauscht werden.\n",
+        "answer": "Lösung: Durch die Anwendung unterschiedlicher Software Tools ist eine standardisierte Schnittstelle erforderlich, welche die Attribute über ein standardisiertes Format beschreibt. Ein solches Format bietet das Requirements Interchange Format (ReqIF), welches ursprünglich im Rahmen eines Konsortiums aus deutschen Automobilherstellern entwickelt wurde. Der ReqIF -Standard ist ein toolunabhängiges, xml-basiertes und frei verfügbares Austauschformat für Anforderungen und wurde mithilfe realer Austauschszenarien entwickelt. Zum Austausch von Anforderungen müssen die Software Tools beim OEM und Lieferanten über ReqIF Import und Exportschnittstellen verfügen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anfoderungen ändern sich im Laufe der Zeit, wie ist eine Versionierung mit Rückverfolgbarkeit (traceability) zu gewährleisten?\n",
+        "answer": "Lösung: Im Laufe des Produktentwicklungsprozesses müssen Anforderungen angepasst oder revidiert werden und das häufig mehrfach und in allen Phasen des Produktentwicklungs- prozesses. RM Software Tools stellen Funktionen bereit, die sowohl die Historie einer Anforderung über zahlreiche Versionen als auch die Rückverfolgbarkeit der Auswirkungen von veränderten Anforderungen ermöglichen. Wenn eine Anforderung verändert wird, sollten die Auswirkungen der Änderungen geklärt und geänderte Attribute versioniert werden. Um die Transparenz zu erhöhen, werden Anforderung mit einem Attribut „Status“ versehen, der beispielsweise folgende Stati vorsieht: Draft, Ready for Review, To Be Revised, Released.In einem Attribut „Kommentar“ können Begründungen zur Änderung festgehalten werden. Der Verlauf der Änderungen wird in einer Historie abgespeichert. Die notwendigen Entscheidungsprozesse im Unternehmen können damit wirksam unterstützt werden.\n\n\n\n\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Anfoderungsmanagement Software Tools für die Verwaltung von Anfoderungen (Requiriement Management Software Tools)?\n",
+        "answer": "Lösung: In Software Systemen werden Anforderungen in Form von sogenannten Objekten in einer Datenbank erfasst und mit Attributen versehen. Attribute bestehen typischer weise aus drei Teilen: dem Attributtyp, der Attributdefinition und dem Attributwert. Der Attributtyp definiert den Informationstyp, den das Attribut speichern kann. Die Attribut definition kann weitere Parameter für das Attribut festlegen. Beispielsweise kann die Attributdefinition Standardwerte bereitstellen oder den Bereich des eigentlichen Attribut werts einschränken.\nIm Folgenden sind zwei Software Tools aufgelistet, die überwiegend in der Automobilindustrie bevorzugt werden.\n1.IBM Engineering Requirements Managemtn DOORS Next\n2. PTC Windchill\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist eine Annfoderungsliste?\n",
+        "answer": "Lösung: Die Anforderungsliste dokumentiert alle Anforderungen in einer übersichtlichen tabellarischen Form. Die Anforderungsliste sollte mindestens Informationen zur Organisation, Identifikation, dem eigentlichen Inhalt der Anforderung und der Verfolgbarkeit (Erstellung und Änderungshistorie) enthalten.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Es existiert nur ein Produktlastenheft für das komplexe Produkt.\n",
+        "answer": "Lösung: Bei komplexen Produkten ist die Beschreibung aller Anforderungen in einem einzigen Produktlastenheft (PLH) weder sinnvoll noch möglich. Stattdessen werden neben dem PLH zahlreiche Komponentenlastenhefte definiert. Dies könnte in folgende Struktur aufgeteilt werden.\n• Systemlastenheft • Modullastenheft • Baugruppenlastenheft • Bauteillastenheft\nUm die Konsistenz der Anforderungen in diesen unterschiedlichen Lastenheften zu gewährleisten wird auch hier vorgeschlagen, die Anforderungen in übergreifende und spezifische Anforderungen aufzuteilen .Die übergreifenden Anforderungen gelten für das Gesamtprodukt und alle Komponenten und werden an alle Komponentenlastenhefte „vererbt“. Spezifische Anforderungen müssen für jede Komponente separat definiert werden.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist ein Lastenheft?\n",
+        "answer": "Lösung: Im Lastenheft beschreibt der Kunde Soll-Zustände sowie Eigenschaften des Produkts, aber auch Rahmenbedingungen, die für ihn wichtig sind, und priorisiert diese z. B. im Vergleich zu anderen produktspezifischen Zielen, zu Lieferzeit oder den Lieferkosten. \n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Was ist ein Pflichtenheft?\n",
+        "answer": "Lösung: Das Pflichtenheft ist durch die Ergänzungen und Konkretisierungen des Auftrag nehmers zu verstehen als dessen spezifischer Realisierungsvorschlag für die im Lasten heft genannten Kundenanforderungen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Welche Art von Anforderungen gibt es?\t\n",
+        "answer": "Lösung: Grundsätzlich können Anforderungen in funktionale und nicht-funktionale Anforderungen unterschieden werden. Diese Unterscheidungsart stammt aus der Software-Entwicklung. Funktionale Anforderungen beschreiben, wie sich das Produkt verhalten soll. Nicht-funktionale Anforderungen sind häufig funktionsüber greifend und beschreiben genauer, wie und unter welchen Bedingungen die Funktionen erfüllt werden sollen.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Welche Aufgaben bzw. Aktivitäten treten auf im Bezug auf Anfoderungen?\n",
+        "answer": "Lösung: es  lassen sich die folgenden grundlegenden Aktivitäten beim Arbeiten mit Anforderungen voneinander unterscheiden • Anforderungen ermitteln, • Anforderungen spezifizieren, • Anforderungen strukturieren, • Anforderungen analysieren, • Anforderungen dokumentieren, • Anforderungen ändern, • Anforderungen versionieren, • Anforderungen rückverfolgen, • Anforderungen prüfen und kommunizieren.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Welche Qualitätskriteriensind bei der Spezifikation von Anforderungen einzuhalten?\n",
+        "answer": "Lösung: Folgende Qualitätskriterien sind nach Pohl und Rupp 2015 wichtig:\n: • eindeutig: ohne Interpretationsspielraum, mit Kennzeichnung (z. B. Identifikations nummer), • gültig und aktuell: Freigegeben, z. B. durch Review oder genehmigten Änderungsantrag, • korrekt: inhaltlich richtig, • priorisiert: mindestens nach Wunsch oder Forderung („muss/kann“) klassifiziert, • realisierbar: technisch und wirtschaftlich machbar (entsprechend der zum Betrachtungszeitpunkt vorliegenden Informationen), • rückverfolgbar („traceable“): zum Stakeholder, zur Lösung, im Bezug auf die Nach weisführung, • vereinbart: freigegeben durch alle Stakeholder, • verifizierbar: testbare Merkmale durch Angabe messbarer Ausprägungen (z. B. Breite von 3 m +/- 0,01 m), • verständlich: einfache Formulierung, • vollständig: mit allen relevanten Zusatzinformationen (Rahmenbedingungen).\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Wie sollte eine Anfoderung formuliert werden?\n",
+        "answer": "Lösung: Bei der Formulierung von Anforderungen kann die natürlichsprachliche Beschreibung bei verschiedenen Personen häufig zu einer unterschiedlichen Interpretation führen. \nEin weiteres Hilfsmittel ist eine Formalisierung zur Beschreibung von Anforderungen, wie das syntaktische Satzbaumuster vom Verband der Automobilindustrie (VDA 2006). Danach wird vorgeschlagen, festgelegte Satzbauglieder zu verwenden, deren Reihenfolge zur Einhaltung einer korrekten Grammatik flexibel eingesetzt werden können: • Bedingung: Bedingung ist ein optionales Satzbauglied und beschreibt u. a. zeitliche Aspekte, Zustände des Systems oder der Außenwelt. • Subjekt: Als Subjekt wird das ausführende Element, wie z. B. das System, das Teil system oder der Anwender beschrieben. • Anforderungswort: Anforderungswort ist ein optionales Satzbauglied und beschreibt die Bedeutung einer Anforderung. • Objekt: Als Objekte werden passive Elemente beschrieben, die an einer Aktion beteiligt sind. • Aktion: Die Aktion wird durch ein Verb beschrieben. \nNagarajah (2013) veranschaulicht die Anwendung der Satzbauglieder an folgendem Bei spiel: Bei der Demontage der Motorhaubenschließsystem-Komponenten dürfen die Befestigungs elemente die Karosserie nicht beschädigen.\nBedingung: Bei der Demontage der Motorhaubenschließsystem-Komponenten Anforderungswort: dürfen\nSubjekt: die Befestigungselemente\nObjekt: die Karosserie\nAktion: nicht beschädigen\n\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem:Was sind die relevanten Normen und Standard im Bezug auf Requirements Engineering (RE) und Requirements Management?\n",
+        "answer": "Lösung: Einige wichtige Normen, die den gesamten Software- oder Systementwicklungsprozess um-fassen, und dabei auch Aussagen über RE und RM machen, sind die folgenden: \nDas Prozess-Reifegradmodell CMMI (Version 1.3) [SEI2010] betrachtet unter anderem die Prozesse „Anforderungsentwicklung (Requirements Development) “ und „Anforde-rungsmanagement (Requirements Management)“, wobei die zugeordneten Ziele sich teilweise deutlich von den Festlegungen des IREB unterscheiden. \nDie ISO 9000 / ISO 9001 [ISO9000] ist eine Norm für Qualitätsmanagement in Unter-nehmen. Die ISO 9001:2008 („Quality Management Systems – Requirements“) legt Mindestanforderungen an ein Qualitätsmanagementsystem fest und beschreibt bei-spielsweise Anforderungen an die Produktrealisierung, Messung und Verbesserung und adressiert somit Themen wie Identifizierbarkeit oder Verfolgbarkeit von Anforde-rungen (vgl. Clause 7.5.3 „Identification and Traceability“). \n In der ISO/IEC 12207:2008 [ISO12207] bzw. 15288:2008 [ISO15288] („Software life cycle processes“ bzw. „Systems and software engineering – Systems life cycle processes“) werden sämtliche Prozesse zur Entwicklung von Systemen und Software definiert. Die Aufgaben „System requirements analysis“ und „Software requirements analysis“ des ISO/IEC 12207 und „Stakeholder Requirements Definition Process“ sowie „Requirements Analysis Process“ des ISO/IEC 15288 umfassen die Tätigkeiten des RE und RM. \nDie IEC 61508 [DIN61508] („Funktionale Sicherheit sicherheitsbezogener elektri-scher/elektronischer/programmierbarer elektronischer Systeme“) beschäftigt sich mit der Definition von Anforderungen an die funktionale Sicherheit von Systemen und de-ren Umsetzung, einschließlich quantitativer Sicherheitsschätzungen. Insbesondere dem Thema Verfolgbarkeit wird hier eine besondere Bedeutung beigemessen. Die Norm definiert Sicherheitsintegritätsstufen (SIL) 1 bis 4, die das Gefährdungsrisiko be-schreiben. Je höher die Stufe, umso höher das Gefährdungspotenzial, und damit steigen auch die Anforderungen an die Verlässlichkeit des Systems. \nSOX (Sarbanes-Oxley Act) [USCo2002] ist ein US-Bundesgesetz als Reaktion auf Bilanz-skandale, welches die Verlässlichkeit der Berichterstattung von Unternehmen, die am öffentlichen Kapitalmarkt in den USA notiert sind, verbessern soll. Der Kern des Sar-banes-Oxley Act ist zu wissen, wer, zu welchem Zeitpunkt, welche Änderung durchfüh-ren ließ und betrifft somit auch Kernaufgaben des RM. \nRE und RM ist zudem beispielsweise in den folgenden Standards zu finden: \nVDI-Richtlinie 2519 Blatt 1 - Vorgehensweise bei der Erstellung von Lasten-/Pflichtenheften [VDI2001] ist der deutsche Standard zur Beschreibung von Lasten- und Pflichtenheften. \nDer IEEE 830-1998 („Recommended Practice for Software Requirements Specifications“) [IEEE830] definiert Begriffe des RE und RM, insbesondere Qualitätseigenschaften von Anforderungen und die Kapitel für eine Spezifikation (“software requirements specifica-tion”). Viele dieser Definitionen sind auch in den CPRE Foundation Level eingegangen [IREB2015]. \nISO/IEC/IEEE 29148:2011 („Systems and software engineering – Life cycle processes – Requirements engineering”) [ISO29148] definiert Qualitätseigenschaften und Attribute von Anforderungen und empfiehlt den iterativen Umgang mit Anforderungen während des gesamten Lebenszyklus. \nIEEE Standard 1233 „Guide for Developing of System Requirements Specifications“ [IEEE1233] beschreibt die Entwicklung von Anforderungen, Spezifikationen und deren Verwaltung in der gesamten Produktentwicklung. Er beschreibt die Erhebung und De-finition von Anforderungen, das Änderungsmanagement und die Organisation von An-forderungen im Projekt. \nISO / IEC 14102:1995 („Evaluation and Selection of CASE Tools“) [ISO14102] be-schreibt Anforderungen an CASE Tools, d.h. Werkzeuge zur computerunterstützten Softwareentwicklung, kann aber auch speziell für die Auswahl von RE- und RM-Werkzeugen verwendet werden. \n ISO/IEC 25010:2011 („Systems and software engineering — Systems and software Qua-lity Requirements and Evaluation (SQuaRE) — System and software quality models“) [ISO25010] beschreibt zwei Qualitätsmodelle für nichtfunktionale Anforderungen – eines für „Quality in use“ und eines für die Produktqualität. Mit Hilfe dieser Qualitäts-modelle können nichtfunktionale Anforderungen an Software und Computersysteme einheitlich erhoben und spezifiziert werden. \nDie ISO 29110 („Lifecycle process standard for Very Small and Medium Entities (VSME)“) [ISO29110] beschreibt einen System-Lebenszyklus einschließlich RE für kleine und mittlere Einheiten, also Projekte von ca. unter 25 Personen. \nDie europäische Norm ISO 9241 [ISO9241], die auch als DIN-Norm anerkannt ist, be-schreibt Richtlinien der Mensch-Computer-Interaktion, und zwar sowohl eine Liste von Qualitätsanforderungen, die eine benutzerfreundliche Software einhalten muss, als auch den Entwicklungs- und Prüfprozess einer solchen Software. \nHinzu kommen noch branchenspezifische Normen und Standards wie DO 178 B/ED-12B und DIN EN 14160 für die Luftfahrt, IEEE/EIA Std. 12207:1998 für das Militär, FDA-535, FDA-938 und EN62304 für die Medizintechnik, EN 50128 für die Bahntechnik oder ITU X.290-X.296 (ISO/IEC 9646-x) oder ETSI ES 201 873-x (TTCN-3) für die Telekommunikation. \nDiese Normen gelten nicht automatisch und vor allem nicht gleichzeitig, da sie nicht voll-ständig miteinander verträglich sind. Jede Firma und jedes Projekt wählt die passenden Standards aus, die sie in originaler oder in angepasster Form anwenden werden. Manchmal verlangt der Kunde die Einhaltung eines bestimmten Standards. \nZusätzlich zu beachten Normen, Standards und Richtlinien sind firmenspezifische Normen des Software-Herstellers oder des Kunden zu beachten. Diese wiederum können aufbauend auf öffentlichen Standards entwickelt sein können und Aspekte des RE und RM beinhalten.\n"
     },
     {
-        "question": "Problem: Anforderungen ändern sich während des Entwicklungsprozesses und machen ursprüngliche Designentscheidungen obsolet.\n",
-        "answer": "Lösung: Nutzen Sie MBSE (Model-Based Systems Engineering), um Anforderungen flexibel zu verwalten, ihre Auswirkungen zu analysieren und Änderungen direkt in die Systemmodelle zu integrieren.\n"
+        "question": "Problem: Welche Normen sind bezogen auf Entwicklung von Produkten in der Automobilindustrie relevant?\n",
+        "answer": "Lösung: Die Wahl der Norm oder des Standards hängt stark von der Branche, dem Projekt und den spezifischen Anforderungen ab. Im Kontext der Automobilindustrie gibt es spezifische Normen und Standards, die sich auf Requirements Engineering (RE) und Requirements Management (RM) beziehen. Diese Normen sind darauf ausgerichtet, die Sicherheit, Zuverlässigkeit und Qualität in der Fahrzeugentwicklung zu gewährleisten. Hier sind die wichtigsten Normen und Standards:\n\tAutomotive SPICE (ISO/IEC 330xx-Serie)\t\n\tISO 262626 (Funktionale Sicherheit für Straßenfahrzeuge)\n\tVDA Normen und Leitfaden\n\tISO/IEC/IEEE 29148 (Requirements Engineering)\n"
     }
 ]
