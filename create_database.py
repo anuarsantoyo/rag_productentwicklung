@@ -38,7 +38,7 @@ def load_documents():
 def json_to_chunks(json_file):
     chunks = [
         Document(
-            page_content=f"{item['question']}\n{item['answer']}"
+            page_content=f"{item['Problem']}\n{item['Lösung']}"
         )
         for item in json_file
     ]

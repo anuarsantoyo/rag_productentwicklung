@@ -43,7 +43,7 @@ def process_input():
     relevant_text = [doc.page_content for doc, _score in results if _score > 0.7]
 
     if len(relevant_text) == 0:
-        response = "Bitte können Sie die Frage genau formulieren, damit ich Ihnen besser helfen kann."
+        response = "Entschuldigung, ich konnte keine passende Antwort auf Ihre Frage finden. Könnten Sie Ihre Frage bitte genauer formulieren, damit ich Ihnen besser helfen kann?"
     else:
         if len(relevant_text) == 1:
             context_text = relevant_text[0]
@@ -56,7 +56,7 @@ def process_input():
         response = model.invoke(prompt).content
 
     # Display the user's input and response in the chat window
-    chat_display.insert(tk.END, f"You: {query_text}\n")
+    chat_display.insert(tk.END, f"DU: {query_text}\n")
     chat_display.insert(tk.END, f"Bot: {response}\n")
 
     # Clear the input field
@@ -78,7 +78,7 @@ def update_character_count(*args):
 
 # Set up the main window
 root = tk.Tk()
-root.title("Produktentwicklung Bot")
+root.title("KI-gestützter Chatbot für die Anforderungserhebung und -analyse")
 
 # Make the root window resizable
 root.geometry("600x400")  # Set initial size
